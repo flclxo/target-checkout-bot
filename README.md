@@ -4,3 +4,4 @@ for other modules.
 
 This bot will be released and launched towards end of May. 
 
+<img width="1222" alt="Screenshot 2025-03-21 at 10 51 11 AM" src="https://github.com/user-attachments/assets/fe0262df-e6de-4998-99d8-d476b1b017a3" />
