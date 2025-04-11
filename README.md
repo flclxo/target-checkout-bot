@@ -1,5 +1,5 @@
 # target-checkout-bot
-Fully request based auto checkout bot to purchases items on target.com. The only bot that bypasses target security (Shape) anti-bot measures without the need for genning cookies before hand. Bot is currently in private but feel free to reach out for collaboration
+Fully request based auto checkout bot to purchases items on target.com such as pokemon cards and nintendo switches. The only bot that bypasses target security (Shape) anti-bot measures without the need for genning cookies before hand. Bot is currently in private but feel free to reach out for collaboration
 for other modules. Target module is done, looking to expand on Walmart (PX), Macys, Costco, and other sites to be added.
 
 This bot will be released and launched towards end of May. 
@@ -13,4 +13,6 @@ This bot will be released and launched towards end of May.
 
 GUI HAS BEEN ADDED
 
-ALL RIGHTS RESERVED 
+ALL RIGHTS RESERVED. NOT FOR DISTRUBTION.
+
+
