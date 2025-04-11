@@ -4,7 +4,7 @@ for other modules. Target module is done, looking to expand on Walmart (PX), Mac
 
 This bot will be released and launched towards end of April with MacOS/Windows/ARM support :( 
 
--Bypass Shape cookie gen target anti-bot (no need to have chrome extension and a cookie jar to send requests)
+-Bypass Shape cookie gen target anti-bot (no need to have chrome extension like Stellar/Refract(Prism) and a cookie jar to send requests)
 -Proxy support and multi threading 
 -Smart restocking mode + server side monitoring 
 -Fast Mode (Bypass implemented)
