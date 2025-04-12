@@ -19,6 +19,9 @@ This bot will be released and launched towards end of April with MacOS/Windows/A
 
 ![Screenshot 2025-03-31 16501800=--4324](https://github.com/user-attachments/assets/86b6748a-81f1-4d22-87d3-a841efba4e0c)
 
+![Screenshot 2025-04-11 205016](https://github.com/user-attachments/assets/8510bd65-774d-41e6-8113-3664e4f85a77)
+
+
 GUI HAS BEEN ADDED
 
 ALL RIGHTS RESERVED. NOT FOR DISTRUBTION. @ FLCL CAPITAL 2025
