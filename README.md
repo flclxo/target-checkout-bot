@@ -1,4 +1,4 @@
-# target-checkout-bot
+# pokemon-checkout-bot
 Fully request based auto checkout bot to purchases items on target.com such as pokemon cards and nintendo switches. The only bot that bypasses target security (Shape) anti-bot measures without the need for genning cookies before hand. Bot is currently in private but feel free to reach out for collaboration
 for other modules. Target module is done, Pokemon center done, Macys (testing), Costco (about 40% finished), and other sites to be added.
 
