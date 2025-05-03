@@ -4,7 +4,7 @@ for other modules. Target module is done, Pokemon center is done, Macys (testing
 
 This bot will be released and launched towards end of April with MacOS/Windows/ARM support.
 
-Looking for developers to help me work on Walmart message me on discord m4swift. 
+Looking for developers to help me work on Walmart message me at my email on my github.
 
 -Bypass Shape cookie gen target anti-bot (no need to have chrome extension like Stellar/Refract(Prism) and a cookie jar to send requests)
 -Fast Mode (Bypass implemented)
