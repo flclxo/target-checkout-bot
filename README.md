@@ -4,7 +4,7 @@ for other modules. Target module is done, Pokemon center is done, Macys (testing
 
 VERY TIRED, NOT SURE WHAT ETA WILL BE MacOS/Windows/ARM support.
 
-Looking for developers to work with other modules ideally just 1-2. Been super busy lately
+LOOKING FOR ANOTHER DEV TO WORK WITH ME TO KEEP UP WEEKLY. 
 
 -Bypass Shape cookie gen target anti-bot (no need to have chrome extension like Stellar/Refract(Prism) and a cookie jar to send requests)
 -Fast Mode (Bypass implemented)
