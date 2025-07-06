@@ -7,6 +7,9 @@ VERY TIRED, NOT SURE WHAT ETA WILL BE MacOS/Windows/ARM support.
 LOOKING FOR ANOTHER DEV TO WORK WITH ME TO KEEP UP WEEKLY ON WALMART/OTHER WEBSITES/WORK ON OTHER MODULES. 
 Send email, if you sent me an email send it again please thank you flclxo@flclcapital.com, must be experienced  
 
+POKEMONE CENTER / TARGET MODULE ARE DONE.
+To purchase a copy message flclxo@flclcapital.com, 125$ for 4 months of access stripe checkout link / crypto / or paypal. 
+
 -Bypass Shape cookie gen target anti-bot (no need to have chrome extension like Stellar/Refract(Prism) and a cookie jar to send requests)
 -Fast Mode (Bypass implemented)
 -Stable Mode
