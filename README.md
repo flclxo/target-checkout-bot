@@ -1,6 +1,6 @@
 # target-checkout-bot
 Fully request based auto checkout bot to purchases items on target.com such as pokemon cards and nintendo switches. The only bot that bypasses target security (Shape) anti-bot measures without the need for genning cookies before hand (make cookies on the fly). Bot is currently in private but feel free to reach out for collaboration
-for other modules. Target module is done, Pokemon center is done, Macys (testing), Costco (about 40% finished), and other sites to be added.
+for other modules. 
 
 LAUNCHING NEXT WEEK, JULY 14TH MacOS/Windows/ARM support.
 
@@ -10,11 +10,7 @@ Send email, if you sent me an email send it again please thank you flclxo@flclca
 POKEMONE CENTER / TARGET MODULE ARE DONE.
 To purchase a copy message flclxo@flclcapital.com, 125$ for 4 months of access stripe checkout link / crypto / or paypal. 
 
--Bypass Shape cookie gen target anti-bot (no need to have chrome extension like Stellar/Refract(Prism) and a cookie jar to send requests)
--Fast Mode (Bypass implemented)
--Stable Mode
--Pokemon center queue mangement (bypass imperava/datadome) 
--Walmart PX (solution as been provided but very annoying to deal with)
+WEBSITE HAS BEEN DEPLOYED JULY 14TH MacOS/Windows/ARM support.
 
 <img width="1222" alt="Screenshot 2025-03-21 at 10 51 11 AM" src="https://github.com/user-attachments/assets/fe0262df-e6de-4998-99d8-d476b1b017a3" />
 
