@@ -6,7 +6,7 @@ LAUNCHING NEXT WEEK, JULY 14TH MacOS/Windows/ARM support. LINK WILL BE POSTED HE
 LOOKING FOR ANOTHER DEV TO WORK WITH ME TO KEEP UP WEEKLY ON WALMART/OTHER WEBSITES/WORK ON OTHER MODULES. 
 Send email, if you sent me an email send it again please thank you akirabots must be experienced (yes it's paid, or split %) 
 
-To purchase a copy, add me on discord akirabots or join our server!
+To purchase a copy, add me on discord akirabots or join our server! https://discord.gg/mRKbsYgJmE
 
 WEBSITE HAS BEEN DEPLOYED JULY 14TH MacOS/Windows/ARM support.
 
