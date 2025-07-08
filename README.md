@@ -5,7 +5,7 @@ for other modules.
 LAUNCHING NEXT WEEK, JULY 14TH MacOS/Windows/ARM support. LINK WILL BE POSTED HERE ON JULY 14TH.
 
 LOOKING FOR ANOTHER DEV TO WORK WITH ME TO KEEP UP WEEKLY ON WALMART/OTHER WEBSITES/WORK ON OTHER MODULES. 
-Send email, if you sent me an email send it again please thank you flclxo@flclcapital.com, must be experienced  
+Send email, if you sent me an email send it again please thank you flclxo@flclcapital.com, must be experienced (yes it's paid, or split %) 
 
 POKEMONE CENTER / TARGET MODULE ARE DONE.
 To purchase a copy message flclxo@flclcapital.com, 125$ for 4 months of access stripe checkout link / crypto / or paypal. 
