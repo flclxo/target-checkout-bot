@@ -2,7 +2,7 @@
 Fully request based auto checkout bot to purchases items on target.com such as pokemon cards and nintendo switches. The only bot that bypasses target security (Shape) anti-bot measures without the need for genning cookies before hand (make cookies on the fly). Bot is currently in private but feel free to reach out for collaboration
 for other modules. 
 
-LAUNCHING NEXT WEEK, JULY 14TH MacOS/Windows/ARM support.
+LAUNCHING NEXT WEEK, JULY 14TH MacOS/Windows/ARM support. LINK WILL BE POSTED HERE ON JULY 14TH.
 
 LOOKING FOR ANOTHER DEV TO WORK WITH ME TO KEEP UP WEEKLY ON WALMART/OTHER WEBSITES/WORK ON OTHER MODULES. 
 Send email, if you sent me an email send it again please thank you flclxo@flclcapital.com, must be experienced  
