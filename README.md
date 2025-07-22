@@ -1,12 +1,12 @@
 # target-checkout-bot
 Auto checkout bot to purchases items on target.com such as pokemon cards and nintendo switches. The only bot that bypasses target security (Shape) anti-bot measures without the need for genning cookies before hand (make cookies on the fly).
 
-Join our server! https://discord.gg/mRKbsYgJmE
+Join our server! https://discord.gg/mRKbsYgJmE and (https://www.akirabots.com/)
 
 Lifetime copies can only be bought via discord ticket!
 
 [akirabots.com
-](https://www.akirabots.com/)
+]
 <img width="760" height="337" alt="Screenshot 2025-07-22 1221533131" src="https://github.com/user-attachments/assets/c162ddb2-8fc4-4760-8327-ac7e1707368f" />
 
 
