@@ -5,9 +5,8 @@ Join our server! https://discord.gg/mRKbsYgJmE and (https://www.akirabots.com/)
 
 Lifetime copies can only be bought via discord ticket!
 
-[akirabots.com
-]
-<img width="760" height="337" alt="Screenshot 2025-07-22 1221533131" src="https://github.com/user-attachments/assets/c162ddb2-8fc4-4760-8327-ac7e1707368f" />
+
+<img width="594" height="341" alt="Screenshot 2025-07-22 11283923131" src="https://github.com/user-attachments/assets/78fd913e-89e9-4134-b015-994c6aee38fb" />
 
 
 <img width="1222" alt="Screenshot 2025-03-21 at 10 51 11 AM" src="https://github.com/user-attachments/assets/fe0262df-e6de-4998-99d8-d476b1b017a3" />
